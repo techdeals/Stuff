@@ -1,15 +1,1 @@
-spawnpoint 'a_f_m_downtown_01' { x = 2395.096, y =  3049.616, z = 60.053 }               
-
-
---
-
-
-
-
-
-
-
-
-#Edited by Vasco
-
-
+spawnpoint 'u_m_m_doa_01' { x = -802.311, y = 175.056, z = 72.8446 }

@@ -29,11 +29,14 @@ local leoSkins = {
     "s_m_y_hwaycop_01",
     "s_m_y_sheriff_01",
     "s_m_y_swat_01",
+	"mp_m_freemode_01",
+	"gangcop",
 }
 
 local fdSkins = {
     "s_m_y_fireman_01",
 	"s_m_m_paramedic_01",
+	"mp_m_freemode_01",
 }
 
 --[[------------------------------------------------------------------------

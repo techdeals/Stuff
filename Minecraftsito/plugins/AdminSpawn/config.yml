@@ -1,0 +1,9 @@
+Prefix:
+  Inventory: '&5&lAdminSpawn › '
+Message:
+  Success: '&aYou have created the spawn point successfully !'
+  Utilisation: '&cUtilisation: /setspawn'
+  Spawn: '&cYou have been teleported to the spawn'
+  Error: '&cThe spawn has not been defined yet'
+ItemJoin:
+  Name: '&bAdminSpawn &f- &cSet the Spawn'

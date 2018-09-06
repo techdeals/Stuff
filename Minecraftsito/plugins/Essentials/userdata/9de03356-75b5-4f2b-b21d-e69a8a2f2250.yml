@@ -1,0 +1,22 @@
+lastAccountName: Alumiinikiekko
+timestamps:
+  login: 1536118778144
+  lastteleport: 1535966569590
+  logout: 1536119039778
+ipAddress: 50.235.110.98
+geolocation: United States
+lastlocation:
+  world: world
+  x: -63.5
+  y: 92.0268647329096
+  z: 658.5
+  yaw: -45.750263
+  pitch: 62.849995
+logoutlocation:
+  world: world
+  x: 26.83043142816902
+  y: 84.81731233667338
+  z: 350.4242082442069
+  yaw: -183.45001
+  pitch: 80.55007
+afk: false

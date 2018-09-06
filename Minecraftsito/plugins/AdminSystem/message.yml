@@ -1,0 +1,18 @@
+Message:
+  OnJoin: '&8[&a+&8]&6 %player% &bjoined the server !'
+  OnQuit: '&8[&c-&8]&6 %player% &bquit the server !'
+  Death: '&c%player% was killed by &a%killer%'
+  Permission: '&cYou do not have permission to perform this command'
+  Commands: '&cYou must be a player to perform this command'
+  MutePlayerOn: '&cYou have muted &f'
+  MutePlayerOff: '&bYou have unmuted &f'
+  PlayerMuteOn: '&cYou are muted by &6'
+  PlayerMuteOff: '&aYou are unmuted by &6'
+  Teleport: '&7Teleporting to&b %player%'
+HeadName: '&7%player%'
+Youtube:
+  Message: '&1www.youtube.com'
+Forum:
+  Message: '&1www.forum.net'
+Web:
+  Message: '&1www.myweb.com'

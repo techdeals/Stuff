@@ -1,0 +1,7 @@
+prefix: '&7[&cPrefix&7]'
+format: '{prefix} &a{player}&7: {message}'
+ChatManager: false
+messages:
+  Console_Not_Allowed: '&cYou cant use this from Console'
+  noPermission: '&cYou dont have enough permissions to perform this command.'
+  notOnline: '&cThe Player is not Online!'

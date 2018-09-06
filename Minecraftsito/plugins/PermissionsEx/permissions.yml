@@ -1,0 +1,24 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+   Moderator:
+   options:
+   default: false
+   permissions:
+   - modifyworld .*
+   
+  Oof:
+    options:
+      prefix: oof
+schema-version: 1
+users:
+  71ff537d-32c8-451e-9c45-ba51406b139b:
+    permissions:
+    - '*'
+    options:
+      name: 1FartPerSecond
+    group:
+    - Oof

@@ -1,0 +1,14 @@
+# * * * * * * * * * * * * * * #
+#        Placeholders:        #
+#                             #
+#        %countdowntime       #
+# * * * * * * * * * * * * * * #
+Messages:
+  NoPermissions: "&c&lInsufficient Permissions."
+  ReloadCountdownMessage: "&cServer Reloading In %countdowntime \n&c&lExpect Lag!"
+  ReloadingNowMessage: "&aServer Reloading Now."
+  ReloadCompleteMessage: "&aServer Finished Reloading."
+  ReloadMessageBorderTop: "&c&lImportant!   &r&e&l&m-=-=-=-=-=-=-=-=-=-=-=-=-+-"
+  ReloadMessageBorderBottom: "&e&l&m-+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+-"
+Options:
+  CountdownTime: 5

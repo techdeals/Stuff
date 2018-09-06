@@ -1,0 +1,28 @@
+# DO NOT MODIFY THIS FILE
+version: 4
+armor:
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+inv:
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bAdminFR
+      enchants:
+        DAMAGE_ALL: 2
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '§aHide §f/ §cShow §f > '
+      lore:
+      - §7Right click to open
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
